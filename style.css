@@ -1,0 +1,54 @@
+*{
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.container{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;;
+    justify-content: center;
+}
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.owner{
+    margin: 10px;
+    padding: 10px;
+    }
+.repo {
+margin: 10px;
+padding: 10px;
+   }
+.submit {
+ margin: 10px;
+ padding: 10px;
+         }
+.reset {
+ margin: 10px;
+ padding: 10px;
+                }
+.info{
+ margin: auto;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.issues{
+margin: 10px;
+padding: 10px;
+}
+.forks{
+margin: 10px;
+padding: 10px;
+    }
+ .open-prs{
+ margin: 10px;
+ padding: 10px;
+     }
+.closed-prs{
+margin: 10px;
+padding: 10px;
+      }
